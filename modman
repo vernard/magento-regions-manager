@@ -1,0 +1,3 @@
+app/etc/modules/*.xml																app/etc/modules/
+app/code/community/Web/States												app/code/community/Web/States
+app/design/adminhtml/default/default/layout/*.xml		app/design/adminhtml/default/default/layout/
