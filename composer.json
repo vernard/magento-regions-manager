@@ -1,0 +1,15 @@
+{
+    "name": "Meabed/magento-regions-manager",
+    "description": "Region manager extension for Magento",
+    "type": "magento-module",
+    "minimum-stability": "dev",
+    "type": "magento-module",
+    "homepage": "http://www.magentocommerce.com/magento-connect/regions-manager.html",
+    "repositories": [
+        {
+           "type": "git",
+           "url": "https://github.com/vernard/magento-regions-manager.git",
+           "reference": "develop"
+        }
+    ]
+}
